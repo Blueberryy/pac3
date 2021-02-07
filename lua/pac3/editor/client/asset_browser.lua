@@ -1496,7 +1496,7 @@ list.Set(
 	"DesktopWindows",
 	"PACAssetBrowser",
 	{
-		title = "Asset Browser",
+		title = "#pac_asset_browser",
 		icon = "icon16/images.png",
 		width = 960,
 		height = 700,

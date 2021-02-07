@@ -241,7 +241,7 @@ list.Set(
 	"DesktopWindows",
 	"PACEditor",
 	{
-		title = "PAC Editor",
+		title = "#pac_editor_context_menu",
 		icon = icon,
 		width = 960,
 		height = 700,
